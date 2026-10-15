@@ -1,0 +1,33 @@
+[submodule "comchan"]
+	path = comchan
+	url = https://aur.archlinux.org/comchan.git
+[submodule "comchan-bin"]
+	path = comchan-bin
+	url = https://aur.archlinux.org/comchan-bin.git
+[submodule "comchan-ratty"]
+	path = comchan-ratty
+	url = https://aur.archlinux.org/comchan-ratty.git
+[submodule "fsel-bin"]
+	path = fsel-bin
+	url = https://aur.archlinux.org/fsel-bin.git
+[submodule "gtm-player"]
+	path = gtm-player
+	url = https://aur.archlinux.org/gtm-player.git
+[submodule "gtm-player-bin"]
+	path = gtm-player-bin
+	url = https://aur.archlinux.org/gtm-player-bin.git
+[submodule "miru-zoom"]
+	path = miru-zoom
+	url = https://aur.archlinux.org/miru-zoom.git
+[submodule "miru-zoom-git"]
+	path = miru-zoom-git
+	url = https://aur.archlinux.org/miru-zoom-git.git
+[submodule "pawnix"]
+	path = pawnix
+	url = https://aur.archlinux.org/pawnix.git
+[submodule "wattpdl"]
+	path = wattpdl
+	url = https://aur.archlinux.org/wattpdl.git
+[submodule "wireforge"]
+	path = wireforge
+	url = https://aur.archlinux.org/wireforge.git
