@@ -1,5 +1,10 @@
 # My `PKGBUILDS`
 
+AUR profile: <https://aur.archlinux.org/account/vaishnav>
+
+> [!NOTE]
+> Development happens on [Codeberg](https://codeberg.org/Vaishnav-Sabari-Girish/pkgbuilds) with a mirror in [GitHub](https://github.com/Vaishnav-Sabari-Girish/pkgbuilds)
+
 This repository contains all the `PKGBUILDS` I maintain for the AUR
 
 1. [ComChan](https://aur.archlinux.org/packages/comchan) (Co-maintainer [Orhun Parmaksiz](https://github.com/orhun))
