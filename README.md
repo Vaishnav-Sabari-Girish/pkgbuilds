@@ -18,3 +18,5 @@ This repository contains all the `PKGBUILDS` I maintain for the AUR
 9. [GTM Player](https://aur.archlinux.org/packages/gtm-player)
 10. [GTM Player pre-built binary](https://aur.archlinux.org/packages/gtm-player-bin)
 11. [Pawnix](https://aur.archlinux.org/packages/pawnix)
+12. [Typepper](https://aur.archlinux.org/packages/typepper)
+13. [Typepper pre-built binary](https://aur.archlinux.org/packages/typepper-bin)

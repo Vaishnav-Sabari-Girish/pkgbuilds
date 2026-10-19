@@ -31,3 +31,9 @@
 [submodule "wireforge"]
 	path = wireforge
 	url = https://aur.archlinux.org/wireforge.git
+[submodule "typepper-bin"]
+	path = typepper-bin
+	url = ssh://aur@aur.archlinux.org/typepper-bin.git
+[submodule "typepper"]
+	path = typepper
+	url = ssh://aur@aur.archlinux.org/typepper.git
