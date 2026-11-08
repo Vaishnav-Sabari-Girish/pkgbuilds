@@ -1,0 +1,4 @@
+[aliases]
+localins = "makepkg -si"
+shaupd = "updpkgsums"
+srcinfo = "makepkg --printsrcinfo > .SRCINFO"

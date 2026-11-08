@@ -37,3 +37,9 @@
 [submodule "typepper"]
 	path = typepper
 	url = ssh://aur@aur.archlinux.org/typepper.git
+[submodule "tmail-bin"]
+	path = tmail-bin
+	url = ssh://aur@aur.archlinux.org/tmail-bin.git
+[submodule "tmail"]
+	path = tmail
+	url = ssh://aur@aur.archlinux.org/tmail.git

@@ -20,3 +20,5 @@ This repository contains all the `PKGBUILDS` I maintain for the AUR
 11. [Pawnix](https://aur.archlinux.org/packages/pawnix)
 12. [Typepper](https://aur.archlinux.org/packages/typepper)
 13. [Typepper pre-built binary](https://aur.archlinux.org/packages/typepper-bin)
+14. [Tmail](https://aur.archlinux.org/packages/tmail)
+15. [Tmail pre-built binary](https://aur.archlinux.org/packages/tmail-bin)
