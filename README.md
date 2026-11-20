@@ -1,5 +1,6 @@
 # My `PKGBUILDS`
 
+
 AUR profile: <https://aur.archlinux.org/account/vaishnav>
 
 > [!NOTE]
@@ -22,3 +23,5 @@ This repository contains all the `PKGBUILDS` I maintain for the AUR
 13. [Typepper pre-built binary](https://aur.archlinux.org/packages/typepper-bin)
 14. [Tmail](https://aur.archlinux.org/packages/tmail)
 15. [Tmail pre-built binary](https://aur.archlinux.org/packages/tmail-bin)
+16. [GTW (Wikipedia in terminal)](https://aur.archlinux.org/packages/gtw)
+17. [GTW pre-built binary](https://aur.archlinux.org/packages/gtw-bin)

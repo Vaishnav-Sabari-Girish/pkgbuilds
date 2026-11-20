@@ -42,4 +42,10 @@
 	url = ssh://aur@aur.archlinux.org/tmail-bin.git
 [submodule "tmail"]
 	path = tmail
-	url = ssh://aur@aur.archlinux.org/tmail.git
+  url = ssh://aur@aur.archlinux.org/tmail.git
+[submodule "gtw"]
+	path = gtw
+	url = https://aur.archlinux.org/gtw.git
+[submodule "gtw-bin"]
+	path = gtw-bin
+	url = https://aur.archlinux.org/gtw-bin.git
